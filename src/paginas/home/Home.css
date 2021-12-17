@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&family=Comforter&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@800&family=Barlow+Semi+Condensed:wght@500;800&family=Comforter&display=swap');
+
+.caixa{
+    background-color: #5CDB95
+}
+
+.fonte-barlow{
+    font-family: 'Barlow Semi Condensed', sans-serif!important;
+}
+
+.fonte-barlow2{
+    font-family: 'Barlow Condensed', sans-serif!important;
+}
+.titulo{
+    color: aqua;
+    text-align: center;
+}
+
+.titulo2{
+    font-weight: 'bold';
+}
+
+.botao{
+    font-size: large!important;
+    background-color: #05386B!important;
+    color: '#05386B';
+}
+
+.postagens{
+    background-color: #5CDB95;
+}
+
+.img{
+    width: 500px;
+    height: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+.letracor{
+    color: #EDF5E1!important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}

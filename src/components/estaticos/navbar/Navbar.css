@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&family=Comforter&display=swap');
+
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+.cursor2{
+    cursor: default;
+    color: white;
+}
+
+.fontef1{
+    font-family: 'Barlow Semi Condensed', sans-serif!important;
+}
+
+.padding-left10{
+    padding-left: 10px;
+}
+
+.padding-left20{
+    padding-left: 20px;
+}
+
+.cor{
+    background-color: #379683;
+}
+.cor2{
+    background-color: #5CDB95;
+}
+.fonte{
+    font-family: "Helvetica";
+}
+.letracor2{
+    color: #05396b!important;
+}
+.img{
+    width: 30px!important;
+    height: 30px!important;
+}
+
+.navbar{
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none!important;
+}
+/*Colocar o search bar no final*/
+.last-item {
+    margin-left: auto!important;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
